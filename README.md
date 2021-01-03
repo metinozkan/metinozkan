@@ -3,7 +3,7 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-   <a href="https://metinozkan.vercel.app/tr/">CV site</a>
+  <a href="https://metinozkan.vercel.app/tr/">CV site</a> •
   <a href="https://www.linkedin.com/in/metin-ozkann/">Linkedin</a>
 </p>
 <!--
