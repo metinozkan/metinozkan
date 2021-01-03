@@ -1,5 +1,11 @@
-### Hi there 👋
 
+
+<h3 align="center"> Hi there 👋</h3>
+
+<p align="center">
+   <a href="https://metinozkan.vercel.app/tr/">CV site</a>
+  <a href="https://www.linkedin.com/in/metin-ozkann/">Linkedin</a>
+</p>
 <!--
 **metinozkan/metinozkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
